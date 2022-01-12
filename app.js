@@ -28,6 +28,8 @@ let users = [{
 }]
 
 for (const arrkey in users){
-    console.log(arrkey,users[arrkey]);
+
+    console.log(arrkey);
+    console.log(users[arrkey]);
 
 }
